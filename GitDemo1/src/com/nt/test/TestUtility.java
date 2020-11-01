@@ -1,10 +1,12 @@
 package com.nt.test;
 
+import com.nt.beans.Utility;
+
 public class TestUtility {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+       Utility u=new Utility();
+       u.date();
 	}
 
 }
