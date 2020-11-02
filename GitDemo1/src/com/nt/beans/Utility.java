@@ -6,5 +6,6 @@ public class Utility {
      public void date() {
     	 Date d=new Date();
     	System.out.println(d.getHours());
+    	System.out.println("Hi Team Leader");
      }
 }
